@@ -1,0 +1,19 @@
+/* HeaderButton.css */
+.cart-button {
+  background-color: #fff;
+  color: #333;
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-left: 10px;
+}
+
+.badge {
+  background-color: red;
+  color: #fff;
+  border-radius: 50%;
+  padding: 4px 8px;
+  font-size: 0.8rem;
+  margin-left: 5px;
+}

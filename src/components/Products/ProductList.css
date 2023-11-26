@@ -1,0 +1,25 @@
+/* ProductList.css */
+/* Your styles for ProductList component */
+/* Example styles */
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.first {
+  flex: 1;
+}
+
+.second {
+  display: flex;
+}
+
+.second button {
+  margin-right: 10px;
+}
+
+/* Add further styles as needed */
